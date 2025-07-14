@@ -69,7 +69,7 @@ async function fetchWeather(lat, lon) {
 }
 
 async function main() {
-  const server = new McpServer({ name: 'news-weather-mcp', version: '0.1.0' })
+  const server = new McpServer({ name: 'news-weather-mcp', version: '1.2.0' })
 
   server.registerTool('GetNews', {
     title: 'Get World News',
