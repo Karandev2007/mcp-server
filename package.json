@@ -1,6 +1,6 @@
 {
   "name": "news-weather-mcp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "a cool news and weather MCP server",
   "bin": { "news-weather-mcp": "index.js" },
   "type": "module",
