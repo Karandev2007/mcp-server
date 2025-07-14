@@ -4,7 +4,18 @@
   "description": "a cool news and weather MCP server",
   "bin": { "news-weather-mcp": "index.js" },
   "type": "module",
-  "keywords": [],
+    "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "news",
+    "weather",
+    "open-meteo",
+    "newsapi",
+    "cli",
+    "ai-tool",
+    "llm",
+    "assistant-tool"
+  ],
   "author": "",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.15.1",
